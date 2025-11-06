@@ -126,9 +126,7 @@
 
 <p>The API will be accessible at <code>http://localhost:4000</code>.</p>
 
-<h2>Database Schema (ER Diagram)</h2>
-<p>Here's a basic ER diagram representing the relationships between the entities in the database:</p>
-<p>Working on it. </p>
+
 
 
 
